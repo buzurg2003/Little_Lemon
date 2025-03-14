@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LittleLemon</string>
+    <string name="personal_information">Personal information</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="onboarding_page">Onboarding Page</string>
+    <string name="back">Back Page</string>
+    <string name="order_for_delivery">ORDER FOR DELIVERY</string>
+    <string name="home_page_hero_section_state">Chicago</string>
+    <string name="home_page_hero_section_description">We are a family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.</string>
+    <string name="home_page_hero_section_image">Restaurant Image</string>
+    <string name="home_page_hero_section_search_text_field">Enter search phrase</string>
+    <string name="home_page_hero_section_search_icon">Search Icon</string>
+    <string name="logout">Log out</string>
+    <string name="greek_salad">Greek Salad</string>
+    <string name="greek_salad_description">The famous greek salad of crispy lettuce, peppers, olives and our Chicago style feta cheese, garnished with crunchy garlic and rosemary croutons.</string>
+    <string name="greek_salad_price">$12.99</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="brushetta">Brushetta</string>
+    <string name="brushetta_description">Our Brushetta is made from grilled bread that has been smeared with olive oil and seasoned with salt and garlic</string>
+    <string name="brushetta_price">$15.99</string>
+    <string name="onboarding_page_hero_section_title">Let\'s get to know you</string>
+    <string name="menu_item_starters">Starters</string>
+    <string name="menu_item_mains">Mains</string>
+    <string name="menu_item_desserts">Desserts</string>
+    <string name="menu_item_drinks">Drinks</string>
+</resources>
